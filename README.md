@@ -1,2 +1,5 @@
 # beginneR
-firstGitrepo
+
+Hell World!!
+
+Welcome to my first codeR.
